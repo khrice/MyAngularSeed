@@ -1,2 +1,2 @@
-# TKA
-### a Sails application
+# My Angular Seed
+### Initial Agnular app
